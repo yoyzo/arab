@@ -7,5 +7,6 @@ import android.content.Context
 class MyCimaPlugin: Plugin() {
     override fun load(context: Context) {
         registerMainAPI(MyCima())
+        registerExtractorAPI(MyVid())
     }
 }

@@ -57,10 +57,6 @@ class VidHD : JWPlayer() {
     override val name = "VidHD"
     override val mainUrl = "https://vidhd.fun"
 }
-class GoStream : JWPlayer() {
-    override val name = "GoStream"
-    override val mainUrl = "https://gostream.pro"
-}
 class Vidbom : JWPlayer() {
     override val name = "Vidbom"
     override val mainUrl = "https://vidbom.com"
