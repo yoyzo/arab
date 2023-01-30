@@ -1,4 +1,4 @@
-version = 
+version = 5
 
 cloudstream {
     description = "Not recommended for series."
